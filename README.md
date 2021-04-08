@@ -1,2 +1,2 @@
-# Reinforcement-Learning-Tutorials
-Reinforcement-Learning-Tutorials
+# Reinforcement-Learning-Tutorial
+ Reinforcement-Learning-Tutorials
