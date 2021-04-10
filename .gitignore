@@ -27,6 +27,22 @@ share/python-wheels/
 *.egg
 MANIFEST
 
+# ipynb checkpoints
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+*/*/.ipynb_checkpoints/*
+
+#pycache files
+*.pyc 
+
+# tensorflow runs
+runs/
+*/runs/
+*/*/runs/
+
+
+
+
 # PyInstaller
 #  Usually these files are written by a python script from a template
 #  before PyInstaller builds the exe, so as to inject date/other infos into it.
